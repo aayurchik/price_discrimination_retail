@@ -1,7 +1,14 @@
 # Diploma thesis
 
-Все данные представлены на диске по ссылке: https://disk.yandex.ru/d/-KSMQUN3Vf8htQ.
+Replication code for undergraduate thesis (HSE University, 2025). Awarded Laureate of HSE Research Competition 2025.
 
-- Файл `Итоговая_обработка_кода.R` содержит ход обработки датасета и построение моделей в рамках дипломной работы.
-- Файл `application.md` содержит приложения в работе.
-- Дипломная работа: https://spb.hse.ru/ba/economics/students/diplomas/1048202003
+## Data
+- Original dataset: [Yandex.Disk](https://disk.yandex.ru/d/-KSMQUN3Vf8htQ)
+- Thesis page: [HSE repository](https://spb.hse.ru/ba/economics/students/diplomas/1048202003)
+
+## Requirements
+R packages: `tidyverse`, `fixest`, `kableExtra`, `openxlsx`, `car`
+
+Install with:
+```r
+install.packages(c("tidyverse", "fixest", "kableExtra", "openxlsx", "car"))
