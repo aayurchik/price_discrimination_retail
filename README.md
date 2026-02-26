@@ -1,4 +1,5 @@
 # Diploma thesis
+## Spatial Price Discrimination in Russian Grocery Retail
 
 Replication code for undergraduate thesis (HSE University, 2025). Awarded Laureate of HSE Research Competition 2025.
 
