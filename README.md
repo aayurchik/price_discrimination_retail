@@ -1,4 +1,4 @@
-# Assesment
+# Diploma thesis
 
 Все данные представлены на диске по ссылке: https://disk.yandex.ru/d/-KSMQUN3Vf8htQ.
 
